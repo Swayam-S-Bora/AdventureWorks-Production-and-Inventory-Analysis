@@ -12,7 +12,7 @@ This analysis focuses on the Manufacturing and Inventory part of the data. Micro
 
 ## Data Model
 
-<img width="620" alt="DataModel" src="">
+<img width="620" alt="DataModel" src="/Demo/Data Model.png">
 
 
 ## Built With
