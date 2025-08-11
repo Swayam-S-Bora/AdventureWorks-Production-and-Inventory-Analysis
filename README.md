@@ -38,7 +38,7 @@ This analysis focuses on the Manufacturing and Inventory part of the data. Micro
 
 The main features of the dashboard are shown below in a video.
 
-[Dashboard Features.mp4]()
+[Demo.mp4]()
 
 <!-- ## Screenshots
 
